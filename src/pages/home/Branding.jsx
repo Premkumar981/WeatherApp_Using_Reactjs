@@ -11,7 +11,7 @@ const Branding = () => {
           rel="noreferrer"
           className="me-4 hover:text-blue-700 hover:underline"
         >
-          <img src={github} alt="github" className="inline" /> GitHub Repository
+          <img src={github} alt="github" className="inline" /> github repo
         </a>
         <a
           href="https://www.linkedin.com/in/surupremkumar/"
@@ -19,12 +19,12 @@ const Branding = () => {
           rel="noreferrer"
           className="me-4 hover:text-blue-700 hover:underline"
         >
-          <img src={linkedin} alt="linkedin" className="inline" /> My LinkedIn
+          <img src={linkedin} alt="linkedin" className="inline" /> my linkedin
         </a>
       </div>
       <div className="mb-6 mt-4 lg:absolute lg:bottom-4 lg:my-0 w-full text-center font-semibold">
         Weather Station Dashboard
-        <span className="text-sm font-normal ml-1">- Suru Prem Kumar</span>
+        <span className="text-sm font-normal ml-1">- SURU PREM KUMAR</span>
       </div>
     </>
   );
